@@ -1,0 +1,8 @@
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\bin\Debug\IterationStatementsExerciseOne.exe.config
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\bin\Debug\IterationStatementsExerciseOne.exe
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\bin\Debug\IterationStatementsExerciseOne.pdb
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\obj\Debug\IterationStatementsExerciseOne.csproj.AssemblyReference.cache
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\obj\Debug\IterationStatementsExerciseOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\obj\Debug\IterationStatementsExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\obj\Debug\IterationStatementsExerciseOne.exe
+C:\Users\plant\repos\IterationStatementsExerciseOne\IterationStatementsExerciseOne\obj\Debug\IterationStatementsExerciseOne.pdb
